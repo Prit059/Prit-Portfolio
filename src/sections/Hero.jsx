@@ -3,7 +3,7 @@ import { useGSAP } from '@gsap/react';
 import gsap from 'gsap';
 
 import { words } from '../constants/index';
-import Button from '../components/button';
+import Button from '../components/Button';
 import HeroExperience from '../components/HeroModels/HeroExperience';
 import AnimatedCounter from '../components/AnimatedCounter';
 import NavBar from '../components/NavBar';
