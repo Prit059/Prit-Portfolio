@@ -30,7 +30,7 @@ const words = [
 
 const counterItems = [
   { value: 1, suffix: "+", label: "Years of Experience" },
-  { value: 5, suffix: "+", label: "Skill" },
+  { value: 5, suffix: "+", label: "Technical Skill" },
   { value: 3, suffix: "+", label: "Completed Projects" },
   { value: 8.86, suffix: " CGPA", label: "Up To 3rd Sem Result" },
 ];

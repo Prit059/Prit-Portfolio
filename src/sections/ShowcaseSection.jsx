@@ -18,7 +18,11 @@ function ShowcaseSection() {
                 <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>Node</div>
                 <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>MySql</div>
               </div>
-              <h2>First Project : Collabsphere</h2>
+              <h2 className='flex flex-col'>
+                <span className='bg-gradient-to-r from-pink-500 to-orange-500 bg-clip-text text-transparent'>  
+                  First Project : 
+                </span>
+                  Collabsphere</h2>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Quisquam, voluptate.
@@ -39,7 +43,11 @@ function ShowcaseSection() {
                 <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>MySql</div>
                 <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>Python</div>
               </div>
-              <h2>HackaThon Project : SmartKitchen AI</h2>
+              <h2 className='flex flex-col'>
+                <span className='bg-gradient-to-r from-pink-500 to-orange-500 bg-clip-text text-transparent'>
+                  HackaThon Project : 
+                </span>
+                SmartKitchen AI</h2>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Quisquam, voluptate.
@@ -53,13 +61,17 @@ function ShowcaseSection() {
             </div>
             <div className='text-content'>
               <div className='badges'>
+                <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>MERN</div>
                 <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>React</div>
-                <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>CSS</div>
+                <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>Tailwindcss</div>
                 <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>Node</div>
-                <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>MySql</div>
-                <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>Python</div>
+                <div className='badge bg-gray-600 p-2.5 rounded-4xl text-white'>MongoDB</div>
               </div>
-              <h2>HackaThon Project : SmartKitchen AI</h2>
+              <h2 className='flex flex-col'>
+                <span className='bg-gradient-to-r from-pink-500 to-orange-500 bg-clip-text text-transparent'>
+                  Internship Project :
+                </span> 
+              Interview Prep AI App</h2>
               <p>
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. 
                 Quisquam, voluptate.

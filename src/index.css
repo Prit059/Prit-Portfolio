@@ -423,7 +423,7 @@ section {
 /* marquee end */
 
 .card {
-  --start: 0;
+  --start: 8;
   position: relative;
   z-index: 40;
   overflow: hidden;
