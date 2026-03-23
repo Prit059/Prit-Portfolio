@@ -125,7 +125,7 @@ function Hero() {
           />
         </div>
 
-        <div
+        {/* <div
           id='mainname'
           className='absolute items-center justify-center z-1000 text-9xl bg-black w-[100%] h-[100%]'
         >
@@ -134,7 +134,7 @@ function Hero() {
               DEDAN!Y@ PR!T
             </h1>
           </div>
-        </div>
+        </div> */}
 
         <div className='hero-layout'>
           <header className='flex flex-col justify-center md:w-full w-screen md:px-20 px-5'>
